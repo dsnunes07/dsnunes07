@@ -1,6 +1,8 @@
-### bom dia, boa tarde, boa noite!
+## bom dia, boa tarde, boa noite! 👨‍💻
 
-:male-student: Computer Science undergraduate @ IME - USP
+👨‍🎓 Computer Science undergraduate @ IME - USP
+
+🏢 QA Analyst @ enjoei
 
 ![](https://github-readme-stats.vercel.app/api?username=dsnunes07&hide=stars)
 
