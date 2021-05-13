@@ -1,8 +1,8 @@
 ## bom dia, boa tarde, boa noite! 👨‍💻
 
-👨‍🎓 Computer Science undergraduate @ IME - USP
+👨‍🎓 Ciência da Computação @ IME-USP
 
-🏢 QA Analyst @ enjoei
+🏢 Analista de Qualidade @ enjoei
 
 ![](https://github-readme-stats.vercel.app/api?username=dsnunes07&hide=stars)
 
