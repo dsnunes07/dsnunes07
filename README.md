@@ -2,5 +2,5 @@
 
 👨‍🎓 Ciência da Computação @ IME-USP
 
-🏢 Analista de Qualidade @ enjoei
+🏢 Desenvolvedor @ Mercado Livre
 
